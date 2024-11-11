@@ -24,7 +24,7 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/dusan-vostic-41b916128/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
 </a>
 </div>
